@@ -20,7 +20,7 @@ return(
        />
 	<center>
 		<h1 className={`text-4xl font-extrabold relative left-0 bottom-40`}>Website comming soon...</h1>
-<h3 className={`text-2xl font-bold relative left-0 bottom-40`}>Website comming soon...</h3>
+<h3 className={`text-2xl font-bold relative left-0 bottom-40`}>Page made by Hussein Abdul-Ameer</h3>
 
 	</center>
 
