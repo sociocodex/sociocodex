@@ -19,9 +19,8 @@ return(
           priority
        />
 	<center>
-		<h1 className={`text-4xl font-extrabold relative left-0 bottom-40`}>Website comming soon...</h1>
-<h3 className={`text-2xl font-bold relative left-0 bottom-40`}>Page made by Hussein Abdul-Ameer</h3>
-
+		<h1 className={`text-base font-extrabold relative left-0 bottom-0 sm:text-4xl sm:left-0 sm:bottom-40`}>Website comming soon...</h1>
+<h3 className={`text-sm font-bold relative left-0 bottom-0 sm:text-2xl sm:left-0 sm:bottom-40`}>Website made by Hussein Abdul-Ameer</h3>
 	</center>
 
 
